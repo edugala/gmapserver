@@ -1,0 +1,22 @@
+{
+  "name": "gmapserver",
+  "version": "1.0.0",
+  "description": "This is Gmap Server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edugala/gmapserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edugala/gmapserver/issues"
+  },
+  "homepage": "https://github.com/edugala/gmapserver#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
